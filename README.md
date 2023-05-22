@@ -25,6 +25,9 @@ Here are some ideas to get you started:
     <a target="_blank" href="https://wellfound.com/u/milner-chen">
       <img src="https://img.shields.io/badge/wellfound-white?style=for-the-badge&logo=AngelList&logoColor=black" alt="WellFound Badge"/>
     </a>
+     <a target="_blank" href="https://milnerchen.com/">
+      <img src="https://img.shields.io/badge/portfolio-coral?style=for-the-badge&logo=Portfolio&logoColor=white" alt="WellFound Badge"/>
+    </a>
   </div>
 <!--   <img src="https://komarev.com/ghpvc/?username=milner-chen&style=flat-square&color=blue" alt=""/> -->
 <!--   <h1>
@@ -42,17 +45,12 @@ Here are some ideas to get you started:
 <h2>
 Hello, Milner here!
  </h2>
+ I am a software engineer with a degree in Information Systems, who is passionate about problem solving and creative writing.
 <!-- I am a Software Developer who enjoys both the logical and narrative elements of web development. -->
 
 - 🔭 I’m currently working on a full-stack clone of Barnes & Noble
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about  -->
-<!-- - 📫 How to reach me: <a>LinkedIn</a> -->
-- 😄 Pronouns: she/her
-<!-- - ⚡ Fun fact:
---- -->
+- 💬 Ask me about JavaScript, React, and writing prompts
+- ⚡ Fun fact: I like ice skating but I can only glide in circles.
 
 ### Languages and Tools
 
@@ -67,8 +65,8 @@ Hello, Milner here!
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"  title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"  title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
