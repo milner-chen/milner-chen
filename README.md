@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a target="_blank" href="https://wellfound.com/u/milner-chen">
-      <img src="https://img.shields.io/badge/wellfound-white?style=for-the-badge&logo=WellFound&logoColor=orange" alt="WellFound Badge"/>
+      <img src="https://img.shields.io/badge/wellfound-white?style=for-the-badge&logo=AngelList&logoColor=black" alt="WellFound Badge"/>
     </a>
   </div>
 <!--   <img src="https://komarev.com/ghpvc/?username=milner-chen&style=flat-square&color=blue" alt=""/> -->
