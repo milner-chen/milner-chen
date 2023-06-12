@@ -72,5 +72,5 @@ Hello, Milner here!
 ---
 
 ### GitHub Stats
-[![Milner's GitHub stats](https://github-readme-stats.vercel.app/api?username=milner-chen&theme=calm&show_icons=true)](https://github.com/milner-chen/github-readme-stats)
+<!-- [![Milner's GitHub stats](https://github-readme-stats.vercel.app/api?username=milner-chen&theme=calm&show_icons=true)](https://github.com/milner-chen/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milner-chen&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
